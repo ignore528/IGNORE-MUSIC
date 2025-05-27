@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900000))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 3000))
 
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID", None))
@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/eyeyadav31/Jani_RP_Music1234",
+    "https://github.com/anujjjjjjjjjj/anu_RP_Music1234",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+pYRhze6SVqgyMWQ1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+pYRhze6SVqgyMWQ1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/All_super_music")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Sweet_chat_aao")
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') 
 API_KEY = getenv("API_KEY", 'NxGBNexGenBots31bc9e')
@@ -81,21 +81,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/yd51bx.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/gmx3wd.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/yd51bx.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/gmx3wd.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/yd51bx.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/yd51bx.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/yd51bx.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/yd51bx.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/yd51bx.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/yd51bx.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/yd51bx.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/yd51bx.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/yd51bx.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/yd51bx.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/gmx3wd.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/gmx3wd.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/gmx3wd.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/gmx3wd.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/gmx3wd.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/gmx3wd.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/gmx3wd.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/gmx3wd.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/gmx3wd.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/gmx3wd.jpg"
 
 
 def time_to_seconds(time):
