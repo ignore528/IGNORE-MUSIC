@@ -5,6 +5,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🎗️𝘼𝙉𝙐𝙍𝘼𝙂+𝙆𝙄𝙉𝙂+𝗥𝗘𝗣𝗢🎗️">
 
+★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+</h2>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+ᴀɴᴜʀᴀɢ+🎭">
+<p align="center">
+  <img src="https://files.catbox.moe/fghejk.jpg">
+</p>
+
+**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ ᴀɴᴜʀᴀɢ ✗ 𝙈𝙪𝙨𝙞𝙘™ [ 𝐍ᴏ 𝐀ᴅs ] 🥀­­­­­­­­­­­­­  ](https://t.me/MAHI_X_MUSIC_BOT)**
+
+
 <h3 align="center">
     ─「 𓂀 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 𓂀 」─
 </h3>
