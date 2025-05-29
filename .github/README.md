@@ -14,8 +14,9 @@
     
     
   <img src="https://files.catbox.moe/fghejk.jpg">
+  
 </p>
-**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ ᴀɴᴜʀᴀɢ ✗ 𝙈𝙪𝙨𝙞𝙘™ [ 𝐍ᴏ 𝐀ᴅs ] 🥀­­­­­­­­­­­­­ ](https://t.me/MAHI_X_MUSIC_BOT)**
+**𝘿𝙀𝙈𝙊 𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [˹ ᴀɴᴜʀᴀɢ ✗ 𝙈𝙪𝙨𝙞𝙘™ [ 𝐍ᴏ 𝐀ᴅs ]🥀­­­­­­­­­­­­­](https://t.me/MAHI_X_MUSIC_BOT)**
 
 
 <h3 align="center">
