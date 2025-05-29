@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🎗️𝘼𝙉𝙐𝙍𝘼𝙂+𝙆𝙄𝙉𝙂+𝗥𝗘𝗣𝗢🎗️">
 
-★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+★ 𝙷𝙴𝚁𝙾𝙺𝚄 
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+ᴀɴᴜʀᴀɢ+🎭">
 <p align="center">
@@ -51,7 +51,7 @@
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
-[![ALONE](https://te.legra.ph/file/fa42213a5129d4a26dd3d.jpg)](https://t.me/ANURAGMOD)
+[![ᴀɴᴜʀᴀɢ](https://files.catbox.moe/o7podt.jpg)](https://t.me/ANURAGMOD)
 </p>
 
 
