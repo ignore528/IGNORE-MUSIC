@@ -51,8 +51,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("EsproSupport")
-                await self.one.join_chat("EsproUpdate")
+                await self.one.join_chat("All_super_music")
+                await self.one.join_chat("Sweet_chat_aao")
             except:
                 pass
             assistants.append(1)
