@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
        
-          [InlineKeyboardButton(text="𝐀𝐃𝐃 𝐌𝐄 +", url=f"https://t.me/Maha_music_robot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users"),   
+          [InlineKeyboardButton(text="𝐀𝐃𝐃 𝐌𝐄", url=f"https://t.me/Maha_music_robot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users"),   
         
         InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
