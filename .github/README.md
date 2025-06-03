@@ -71,4 +71,4 @@
 <a href="https://t.me/Ignore_network"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ɪɢɴᴏʀᴇ](https://t.me/+-96WqPJaW6wyZGZl) ғᴏʀ [ᴀɴᴜʀᴀɢ ɪɢɴᴏʀᴇ ʙᴏᴛ](https://t.me/Ignore_network)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ɪɢɴᴏʀᴇ](https://t.me/+-96WqPJaW6wyZGZl) ғᴏʀ [ ɪɢɴᴏʀᴇ ʙᴏᴛ](https://t.me/Ignore_network)_</b>
