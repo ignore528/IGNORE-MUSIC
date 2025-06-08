@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Ignore_network")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+-96WqPJaW6wyZGZl")
 
-API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') 
-API_KEY = getenv("API_KEY", '30DxNexGenBots667d40')
+API_URL = getenv("API_URL", '') 
+API_KEY = getenv("API_KEY", '')
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
